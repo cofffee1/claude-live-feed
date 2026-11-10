@@ -1,0 +1,5 @@
+{
+  "name": "live-feed",
+  "owner": { "name": "cofffee1" },
+  "plugins": [{ "name": "live-feed", "source": "./" }]
+}
